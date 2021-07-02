@@ -1,0 +1,441 @@
+﻿region,date,qc_pass,qc_fail,gisaid
+Alberta,2020-09-18,,,
+British Columbia,2020-09-18,,,
+Manitoba,2020-09-18,,,
+New Brunswick,2020-09-18,,,
+Newfoundland and Labrador,2020-09-18,,,
+Nova Scotia,2020-09-18,,,
+Ontario,2020-09-18,,,
+Prince Edward Island,2020-09-18,,,
+Quebec,2020-09-18,,,
+Saskatchewan,2020-09-18,,,
+Canada,2020-09-18,,,
+Alberta,2020-09-25,1787,220,0
+British Columbia,2020-09-25,3296,720,604
+Manitoba,2020-09-25,395,87,15
+New Brunswick,2020-09-25,51,43,51
+Newfoundland and Labrador,2020-09-25,35,5,19
+Nova Scotia,2020-09-25,308,40,8
+Ontario,2020-09-25,2927,697,276
+Prince Edward Island,2020-09-25,22,6,0
+Quebec,2020-09-25,2506,883,725
+Saskatchewan,2020-09-25,271,178,0
+Canada,2020-09-25,11598,"2,879",1698
+Alberta,2020-10-02,2284,227,0
+British Columbia,2020-10-02,4119,857,604
+Manitoba,2020-10-02,477,160,15
+New Brunswick,2020-10-02,51,43,51
+Newfoundland and Labrador,2020-10-02,35,5,19
+Nova Scotia,2020-10-02,308,40,8
+Ontario,2020-10-02,3733,732,613
+Prince Edward Island,2020-10-02,22,11,0
+Quebec,2020-10-02,2978,1150,728
+Saskatchewan,2020-10-02,271,178,0
+Canada,2020-10-02,14278,3403,2038
+Alberta,2020-10-09,,,
+British Columbia,2020-10-09,,,
+Manitoba,2020-10-09,,,
+New Brunswick,2020-10-09,,,
+Newfoundland and Labrador,2020-10-09,,,
+Nova Scotia,2020-10-09,,,
+Ontario,2020-10-09,,,
+Prince Edward Island,2020-10-09,,,
+Quebec,2020-10-09,,,
+Saskatchewan,2020-10-09,,,
+Canada,2020-10-09,,,
+Alberta,2020-10-16,,,
+British Columbia,2020-10-16,,,
+Manitoba,2020-10-16,,,
+New Brunswick,2020-10-16,,,
+Newfoundland and Labrador,2020-10-16,,,
+Nova Scotia,2020-10-16,,,
+Ontario,2020-10-16,,,
+Prince Edward Island,2020-10-16,,,
+Quebec,2020-10-16,,,
+Saskatchewan,2020-10-16,,,
+Canada,2020-10-16,,,
+Alberta,2020-10-23,2419,233,0
+British Columbia,2020-10-23,4429,919,604
+Manitoba,2020-10-23,513,192,270
+New Brunswick,2020-10-23,51,49,51
+Newfoundland and Labrador,2020-10-23,35,5,19
+Nova Scotia,2020-10-23,514,64,252
+Ontario,2020-10-23,3930,875,1079
+Prince Edward Island,2020-10-23,22,11,0
+Quebec,2020-10-23,2978,1150,725
+Saskatchewan,2020-10-23,290,181,0
+Canada,2020-10-23,15181,3679,3000
+Alberta,2020-10-30,,,
+British Columbia,2020-10-30,,,
+Manitoba,2020-10-30,,,
+New Brunswick,2020-10-30,,,
+Newfoundland and Labrador,2020-10-30,,,
+Nova Scotia,2020-10-30,,,
+Ontario,2020-10-30,,,
+Prince Edward Island,2020-10-30,,,
+Quebec,2020-10-30,,,
+Saskatchewan,2020-10-30,,,
+Canada,2020-10-30,,,
+Alberta,2020-11-06,,,
+British Columbia,2020-11-06,,,
+Manitoba,2020-11-06,,,
+New Brunswick,2020-11-06,,,
+Newfoundland and Labrador,2020-11-06,,,
+Nova Scotia,2020-11-06,,,
+Ontario,2020-11-06,,,
+Prince Edward Island,2020-11-06,,,
+Quebec,2020-11-06,,,
+Saskatchewan,2020-11-06,,,
+Canada,2020-11-06,,,
+Alberta,2020-11-13,,,
+British Columbia,2020-11-13,,,
+Manitoba,2020-11-13,,,
+New Brunswick,2020-11-13,,,
+Newfoundland and Labrador,2020-11-13,,,
+Nova Scotia,2020-11-13,,,
+Ontario,2020-11-13,,,
+Prince Edward Island,2020-11-13,,,
+Quebec,2020-11-13,,,
+Saskatchewan,2020-11-13,,,
+Canada,2020-11-13,,,
+Alberta,2020-11-20,2571,269,0
+British Columbia,2020-11-20,5782,1185,604
+Manitoba,2020-11-20,686,213,295
+New Brunswick,2020-11-20,51,57,51
+Newfoundland and Labrador,2020-11-20,65,18,19
+Nova Scotia,2020-11-20,514,64,252
+Ontario,2020-11-20,5044,1072,1134
+Prince Edward Island,2020-11-20,26,11,0
+Quebec,2020-11-20,3788,2217,725
+Saskatchewan,2020-11-20,303,188,0
+Canada,2020-11-20,18830,5294,3080
+Alberta,2020-11-27,,,
+British Columbia,2020-11-27,,,
+Manitoba,2020-11-27,,,
+New Brunswick,2020-11-27,,,
+Newfoundland and Labrador,2020-11-27,,,
+Nova Scotia,2020-11-27,,,
+Ontario,2020-11-27,,,
+Prince Edward Island,2020-11-27,,,
+Quebec,2020-11-27,,,
+Saskatchewan,2020-11-27,,,
+Canada,2020-11-27,,,
+Alberta,2020-12-04,,,
+British Columbia,2020-12-04,,,
+Manitoba,2020-12-04,,,
+New Brunswick,2020-12-04,,,
+Newfoundland and Labrador,2020-12-04,,,
+Nova Scotia,2020-12-04,,,
+Ontario,2020-12-04,,,
+Prince Edward Island,2020-12-04,,,
+Quebec,2020-12-04,,,
+Saskatchewan,2020-12-04,,,
+Canada,2020-12-04,,,
+Alberta,2020-12-11,,,
+British Columbia,2020-12-11,,,
+Manitoba,2020-12-11,,,
+New Brunswick,2020-12-11,,,
+Newfoundland and Labrador,2020-12-11,,,
+Nova Scotia,2020-12-11,,,
+Ontario,2020-12-11,,,
+Prince Edward Island,2020-12-11,,,
+Quebec,2020-12-11,,,
+Saskatchewan,2020-12-11,,,
+Canada,2020-12-11,,,
+Alberta,2020-12-18,3371,303,0
+British Columbia,2020-12-18,7462,1422,604
+Manitoba,2020-12-18,1062,233,295
+New Brunswick,2020-12-18,51,57,51
+Newfoundland and Labrador,2020-12-18,65,18,19
+Nova Scotia,2020-12-18,514,64,252
+Ontario,2020-12-18,6115,1088,1292
+Prince Edward Island,2020-12-18,36,14,0
+Quebec,2020-12-18,3788,2217,725
+Saskatchewan,2020-12-18,314,192,0
+Canada,2020-12-18,22778,5608,3238
+Alberta,2020-12-25,,,
+British Columbia,2020-12-25,,,
+Manitoba,2020-12-25,,,
+New Brunswick,2020-12-25,,,
+Newfoundland and Labrador,2020-12-25,,,
+Nova Scotia,2020-12-25,,,
+Ontario,2020-12-25,,,
+Prince Edward Island,2020-12-25,,,
+Quebec,2020-12-25,,,
+Saskatchewan,2020-12-25,,,
+Canada,2020-12-25,,,
+Alberta,2021-01-01,,,
+British Columbia,2021-01-01,,,
+Manitoba,2021-01-01,,,
+New Brunswick,2021-01-01,,,
+Newfoundland and Labrador,2021-01-01,,,
+Nova Scotia,2021-01-01,,,
+Ontario,2021-01-01,,,
+Prince Edward Island,2021-01-01,,,
+Quebec,2021-01-01,,,
+Saskatchewan,2021-01-01,,,
+Canada,2021-01-01,,,
+Alberta,2021-01-08,3663,353,1541
+British Columbia,2021-01-08,8387,1553,924
+Manitoba,2021-01-08,1062,233,295
+New Brunswick,2021-01-08,99,61,51
+Newfoundland and Labrador,2021-01-08,86,33,19
+Nova Scotia,2021-01-08,514,64,252
+Ontario,2021-01-08,6729,1495,1962
+Prince Edward Island,2021-01-08,40,16,0
+Quebec,2021-01-08,3916,2280,726
+Saskatchewan,2021-01-08,322,195,0
+Canada,2021-01-08,24818,6283,5770
+Alberta,2021-01-15,3792,357,1541
+British Columbia,2021-01-15,8959,1653,924
+Manitoba,2021-01-15,1062,233,295
+New Brunswick,2021-01-15,99,61,51
+Newfoundland and Labrador,2021-01-15,86,33,19
+Nova Scotia,2021-01-15,514,64,252
+Ontario,2021-01-15,7371,1511,2036
+Prince Edward Island,2021-01-15,39,15,0
+Quebec,2021-01-15,3945,2299,1376
+Saskatchewan,2021-01-15,344,206,0
+Canada,2021-01-15,26211,6432,6494
+Alberta,2021-01-22,4005,378,1675
+British Columbia,2021-01-22,9464,1692,924
+Manitoba,2021-01-22,1151,233,295
+New Brunswick,2021-01-22,118,65,51
+Newfoundland and Labrador,2021-01-22,86,33,19
+Nova Scotia,2021-01-22,613,102,252
+Ontario,2021-01-22,7515,1531,2506
+Prince Edward Island,2021-01-22,41,15,0
+Quebec,2021-01-22,3945,2299,1376
+Saskatchewan,2021-01-22,378,213,0
+Canada,2021-01-22,27316,6561,7098
+Alberta,2021-01-29,4070,408,1675
+British Columbia,2021-01-29,10094,1818,924
+Manitoba,2021-01-29,1244,235,514
+New Brunswick,2021-01-29,176,77,51
+Newfoundland and Labrador,2021-01-29,101,34,36
+Nova Scotia,2021-01-29,830,149,473
+Ontario,2021-01-29,8184,1593,2820
+Prince Edward Island,2021-01-29,47,16,0
+Quebec,2021-01-29,5798,3039,2417
+Saskatchewan,2021-01-29,408,213,0
+Canada,2021-01-29,30952,7582,8910
+Alberta,2021-02-05,4393,428,1675
+British Columbia,2021-02-05,10882,1979,924
+Manitoba,2021-02-05,1344,244,514
+New Brunswick,2021-02-05,204,82,169
+Newfoundland and Labrador,2021-02-05,101,34,36
+Nova Scotia,2021-02-05,916,183,473
+Ontario,2021-02-05,8742,1706,3111
+Prince Edward Island,2021-02-05,48,19,0
+Quebec,2021-02-05,6406,2558,2417
+Saskatchewan,2021-02-05,480,233,0
+Canada,2021-02-05,33516,7466,9319
+Alberta,2021-02-12,4542,469,1675
+British Columbia,2021-02-12,11670,2140,5876
+Manitoba,2021-02-12,1349,246,570
+New Brunswick,2021-02-12,238,88,169
+Newfoundland and Labrador,2021-02-12,130,35,36
+Nova Scotia,2021-02-12,916,183,473
+Ontario,2021-02-12,9188,1787,3683
+Prince Edward Island,2021-02-12,50,20,0
+Quebec,2021-02-12,7374,2625,2417
+Saskatchewan,2021-02-12,480,233,0
+Canada,2021-02-12,35937,7826,14899
+Alberta,2021-02-19,5003,589,1675
+British Columbia,2021-02-19,12259,2296,5876
+Manitoba,2021-02-19,1417,281,570
+New Brunswick,2021-02-19,267,89,169
+Newfoundland and Labrador,2021-02-19,197,45,103
+Nova Scotia,2021-02-19,992,217,772
+Ontario,2021-02-19,9629,1919,3689
+Prince Edward Island,2021-02-19,51,20,0
+Quebec,2021-02-19,7374,2625,2417
+Saskatchewan,2021-02-19,695,252,0
+Canada,2021-02-19,37884,8333,15271
+Alberta,2021-02-26,5803,696,1675
+British Columbia,2021-02-26,13007,2483,5876
+Manitoba,2021-02-26,1480,282,570
+New Brunswick,2021-02-26,288,91,191
+Newfoundland and Labrador,2021-02-26,265,51,103
+Nova Scotia,2021-02-26,1009,219,772
+Ontario,2021-02-26,10346,2103,3695
+Prince Edward Island,2021-02-26,53,20,0
+Quebec,2021-02-26,8370,2837,2780
+Saskatchewan,2021-02-26,798,275,0
+Canada,2021-02-26,41419,9057,15662
+Alberta,2021-03-05,6648,769,1675
+British Columbia,2021-03-05,13713,2632,5876
+Manitoba,2021-03-05,1572,292,570
+New Brunswick,2021-03-05,305,93,191
+Newfoundland and Labrador,2021-03-05,285,52,103
+Nova Scotia,2021-03-05,1085,262,772
+Ontario,2021-03-05,10911,2276,5067
+Prince Edward Island,2021-03-05,72,21,0
+Quebec,2021-03-05,8636,2927,2786
+Saskatchewan,2021-03-05,891,283,0
+Canada,2021-03-05,44118,9607,17040
+Alberta,2021-03-12,7745,820,1675
+British Columbia,2021-03-12,14550,2832,5876
+Manitoba,2021-03-12,1610,298,1091
+New Brunswick,2021-03-12,314,93,231
+Newfoundland and Labrador,2021-03-12,297,54,190
+Nova Scotia,2021-03-12,1096,264,867
+Ontario,2021-03-12,11528,2722,6834
+Prince Edward Island,2021-03-12,75,21,0
+Quebec,2021-03-12,8636,2927,2786
+Saskatchewan,2021-03-12,994,300,0
+Canada,2021-03-12,46845,10331,19550
+Alberta,2021-03-19,8725,860,1675
+British Columbia,2021-03-19,15532,2978,5876
+Manitoba,2021-03-19,1624,298,1091
+New Brunswick,2021-03-19,330,97,230
+Newfoundland and Labrador,2021-03-19,305,54,190
+Nova Scotia,2021-03-19,1106,265,867
+Ontario,2021-03-19,11788,2804,7977
+Prince Edward Island,2021-03-19,75,22,0
+Quebec,2021-03-19,9588,3113,4100
+Saskatchewan,2021-03-19,1320,445,0
+Canada,2021-03-19,50393,10936,22006
+Alberta,2021-03-26,9529,881,1675
+British Columbia,2021-03-26,17254,3158,5876
+Manitoba,2021-03-26,1810,332,1091
+New Brunswick,2021-03-26,356,100,230
+Newfoundland and Labrador,2021-03-26,306,54,190
+Nova Scotia,2021-03-26,1121,268,867
+Ontario,2021-03-26,13415,3533,10305
+Prince Edward Island,2021-03-26,80,28,0
+Quebec,2021-03-26,10816,3295,4203
+Saskatchewan,2021-03-26,1674,536,0
+Canada,2021-03-26,56361,12185,24437
+Alberta,2021-04-02,10198,935,1675
+British Columbia,2021-04-02,19025,3304,5876
+Manitoba,2021-04-02,1810,332,1091
+New Brunswick,2021-04-02,435,115,230
+Newfoundland and Labrador,2021-04-02,307,55,190
+Nova Scotia,2021-04-02,1134,271,867
+Ontario,2021-04-02,13696,4455,10716
+Prince Edward Island,2021-04-02,85,29,0
+Quebec,2021-04-02,12575,3951,4885
+Saskatchewan,2021-04-02,2730,800,0
+Canada,2021-04-02,61995,14247,25530
+Alberta,2021-04-09,11579,980,1675
+British Columbia,2021-04-09,20782,3449,5876
+Manitoba,2021-04-09,1822,333,1344
+New Brunswick,2021-04-09,500,121,382
+Newfoundland and Labrador,2021-04-09,307,55,272
+Nova Scotia,2021-04-09,1152,280,867
+Ontario,2021-04-09,14327,4455,11651
+Prince Edward Island,2021-04-09,86,30,0
+Quebec,2021-04-09,13420,3984,5623
+Saskatchewan,2021-04-09,2995,908,0
+Canada,2021-04-09,66970,14595,27690
+Alberta,2021-04-16,12497,1008,1675
+British Columbia,2021-04-16,22802,3693,5876
+Manitoba,2021-04-16,1831,338,1344
+New Brunswick,2021-04-16,557,127,382
+Newfoundland and Labrador,2021-04-16,307,55,272
+Nova Scotia,2021-04-16,1183,294,1086
+Ontario,2021-04-16,14621,4729,11680
+Prince Edward Island,2021-04-16,94,30,0
+Quebec,2021-04-16,15772,4344,5717
+Saskatchewan,2021-04-16,3128,963,0
+Canada,2021-04-16,72792,15581,28032
+Alberta,2021-04-23,13638,1053,1675
+British Columbia,2021-04-23,24727,4038,5876
+Manitoba,2021-04-23,1848,342,1344
+New Brunswick,2021-04-23,590,127,382
+Newfoundland and Labrador,2021-04-23,323,55,272
+Nova Scotia,2021-04-23,1248,306,1086
+Ontario,2021-04-23,15824,4909,11802
+Prince Edward Island,2021-04-23,97,35,0
+Quebec,2021-04-23,16959,4463,5717
+Saskatchewan,2021-04-23,3800,1316,0
+Canada,2021-04-23,79054,16644,28154
+Alberta,2021-04-30,14657,1138,1675
+British Columbia,2021-04-30,26603,4426,5876
+Manitoba,2021-04-30,1890,344,1344
+New Brunswick,2021-04-30,665,131,382
+Newfoundland and Labrador,2021-04-30,338,55,272
+Nova Scotia,2021-04-30,1248,306,1086
+Ontario,2021-04-30,17221,5044,12488
+Prince Edward Island,2021-04-30,102,36,0
+Quebec,2021-04-30,18495,4543,5717
+Saskatchewan,2021-04-30,4303,1375,0
+Canada,2021-04-30,85522,17398,28840
+Alberta,2021-05-07,15590,1223,1675
+British Columbia,2021-05-07,28242,4675,5876
+Manitoba,2021-05-07,2035,347,1344
+New Brunswick,2021-05-07,705,132,382
+Newfoundland and Labrador,2021-05-07,366,59,272
+Nova Scotia,2021-05-07,1248,306,1086
+Ontario,2021-05-07,19385,4948,13025
+Prince Edward Island,2021-05-07,104,36,0
+Quebec,2021-05-07,21309,5008,5717
+Saskatchewan,2021-05-07,4887,1470,0
+Canada,2021-05-07,93871,18204,29377
+Alberta,2021-05-14,16426,1303,9430
+British Columbia,2021-05-14,29968,5025,5876
+Manitoba,2021-05-14,2095,364,1344
+New Brunswick,2021-05-14,734,137,382
+Newfoundland and Labrador,2021-05-14,381,61,301
+Nova Scotia,2021-05-14,1248,306,1181
+Ontario,2021-05-14,20909,5100,14332
+Prince Edward Island,2021-05-14,107,38,0
+Quebec,2021-05-14,23191,5087,5319
+Saskatchewan,2021-05-14,6100,1830,0
+Canada,2021-05-14,101159,19251,38165
+Alberta,2021-05-21,17632,1560,9430
+British Columbia,2021-05-21,32003,5446,5876
+Manitoba,2021-05-21,2136,367,1344
+New Brunswick,2021-05-21,783,141,382
+Newfoundland and Labrador,2021-05-21,399,61,301
+Nova Scotia,2021-05-21,1268,312,1181
+Ontario,2021-05-21,23460,5222,18664
+Prince Edward Island,2021-05-21,112,49,0
+Quebec,2021-05-21,23191,6184,5319
+Saskatchewan,2021-05-21,6782,1975,0
+Canada,2021-05-21,107766,21317,42497
+Alberta,2021-05-28,17892,1657,9430
+British Columbia,2021-05-28,32003,5446,5876
+Manitoba,2021-05-28,2253,372,1344
+New Brunswick,2021-05-28,837,145,382
+Newfoundland and Labrador,2021-05-28,432,66,301
+Nova Scotia,2021-05-28,1268,312,1181
+Ontario,2021-05-28,24280,5259,18309
+Prince Edward Island,2021-05-28,113,50,0
+Quebec,2021-05-28,25589,6184,6238
+Saskatchewan,2021-05-28,6863,1981,0
+Canada,2021-05-28,111530,21472,43061
+Alberta,2021-06-04,18818,1753,9430
+British Columbia,2021-06-04,35797,6397,5876
+Manitoba,2021-06-04,2358,375,1344
+New Brunswick,2021-06-04,886,148,382
+Newfoundland and Labrador,2021-06-04,444,68,302
+Nova Scotia,2021-06-04,1268,312,1181
+Ontario,2021-06-04,24882,5311,18757
+Prince Edward Island,2021-06-04,114,50,0
+Quebec,2021-06-04,25896,6917,6879
+Saskatchewan,2021-06-04,7198,2026,0
+Canada,2021-06-04,117661,23357,44151
+Alberta,2021-06-11,19792,1794,11760
+British Columbia,2021-06-11,35797,6397,15727
+Manitoba,2021-06-11,2485,382,1690
+New Brunswick,2021-06-11,929,153,476
+Newfoundland and Labrador,2021-06-11,450,70,353
+Nova Scotia,2021-06-11,1268,312,1181
+Ontario,2021-06-11,27014,5515,20451
+Prince Edward Island,2021-06-11,114,52,0
+Quebec,2021-06-11,28069,7386,6879
+Saskatchewan,2021-06-11,7644,2132,2938
+Canada,2021-06-11,123562,24193,61455
+Alberta,2021-06-18,20437,1839,11760
+British Columbia,2021-06-18,35797,6397,19656
+Manitoba,2021-06-18,2677,389,1690
+New Brunswick,2021-06-18,956,156,476
+Newfoundland and Labrador,2021-06-18,450,70,353
+Nova Scotia,2021-06-18,1314,331,1181
+Ontario,2021-06-18,29154,5701,21728
+Prince Edward Island,2021-06-18,114,52,0
+Quebec,2021-06-18,29240,7150,7595
+Saskatchewan,2021-06-18,7971,2187,3406
+Canada,2021-06-18,128110,24272,67845
