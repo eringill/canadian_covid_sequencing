@@ -1,130 +1,130 @@
 ﻿region,date,voc,total
-Alberta,2021-03-14,alpha,902
-British Columbia,2021-03-14,alpha,667
-Manitoba,2021-03-14,alpha,12
-New Brunswick,2021-03-14,alpha,6
-Newfoundland and Labrador,2021-03-14,alpha,88
-Northwest Territories,2021-03-14,alpha,0
-Nova Scotia,2021-03-14,alpha,11
-Nunavut,2021-03-14,alpha,0
-Ontario,2021-03-14,alpha,1036
-Prince Edward Island,2021-03-14,alpha,4
-Quebec,2021-03-14,alpha,241
-Saskatchewan,2021-03-14,alpha,64
-Yukon,2021-03-14,alpha,0
-Canada,2021-03-14,alpha,3031
-Alberta,2021-03-14,beta,16
-British Columbia,2021-03-14,beta,36
-Manitoba,2021-03-14,beta,11
-New Brunswick,2021-03-14,beta,0
-Newfoundland and Labrador,2021-03-14,beta,0
-Northwest Territories,2021-03-14,beta,0
-Nova Scotia,2021-03-14,beta,8
-Nunavut,2021-03-14,beta,0
-Ontario,2021-03-14,beta,44
-Prince Edward Island,2021-03-14,beta,0
-Quebec,2021-03-14,beta,99
-Saskatchewan,2021-03-14,beta,6
-Yukon,2021-03-14,beta,0
-Canada,2021-03-14,beta,220
-Alberta,2021-03-14,gamma,2
-British Columbia,2021-03-14,gamma,14
-Manitoba,2021-03-14,gamma,0
-New Brunswick,2021-03-14,gamma,0
-Newfoundland and Labrador,2021-03-14,gamma,0
-Northwest Territories,2021-03-14,gamma,0
-Nova Scotia,2021-03-14,gamma,0
-Nunavut,2021-03-14,gamma,0
-Ontario,2021-03-14,gamma,34
-Prince Edward Island,2021-03-14,gamma,0
-Quebec,2021-03-14,gamma,1
-Saskatchewan,2021-03-14,gamma,0
-Yukon,2021-03-14,gamma,0
-Canada,2021-03-14,gamma,51
-Alberta,2021-03-21,alpha,1581
-British Columbia,2021-03-21,alpha,1094
-Manitoba,2021-03-21,alpha,63
-New Brunswick,2021-03-21,alpha,6
-Newfoundland and Labrador,2021-03-21,alpha,178
-Northwest Territories,2021-03-21,alpha,0
-Nova Scotia,2021-03-21,alpha,13
-Nunavut,2021-03-21,alpha,0
-Ontario,2021-03-21,alpha,1287
-Prince Edward Island,2021-03-21,alpha,4
-Quebec,2021-03-21,alpha,432
-Saskatchewan,2021-03-21,alpha,149
-Yukon,2021-03-21,alpha,0
-Canada,2021-03-21,alpha,4807
-Alberta,2021-03-21,beta,18
-British Columbia,2021-03-21,beta,41
-Manitoba,2021-03-21,beta,13
-New Brunswick,2021-03-21,beta,0
-Newfoundland and Labrador,2021-03-21,beta,0
-Northwest Territories,2021-03-21,beta,0
-Nova Scotia,2021-03-21,beta,10
-Nunavut,2021-03-21,beta,0
-Ontario,2021-03-21,beta,47
-Prince Edward Island,2021-03-21,beta,0
-Quebec,2021-03-21,beta,107
-Saskatchewan,2021-03-21,beta,7
-Yukon,2021-03-21,beta,0
-Canada,2021-03-21,beta,243
-Alberta,2021-03-21,gamma,2
-British Columbia,2021-03-21,gamma,65
-Manitoba,2021-03-21,gamma,0
-New Brunswick,2021-03-21,gamma,0
-Newfoundland and Labrador,2021-03-21,gamma,0
-Northwest Territories,2021-03-21,gamma,0
-Nova Scotia,2021-03-21,gamma,0
-Nunavut,2021-03-21,gamma,0
-Ontario,2021-03-21,gamma,36
-Prince Edward Island,2021-03-21,gamma,0
-Quebec,2021-03-21,gamma,1
-Saskatchewan,2021-03-21,gamma,0
-Yukon,2021-03-21,gamma,0
-Canada,2021-03-21,gamma,104
-Alberta,2021-03-28,alpha,3043
-British Columbia,2021-03-28,alpha,1666
-Manitoba,2021-03-28,alpha,109
-New Brunswick,2021-03-28,alpha,6
-Newfoundland and Labrador,2021-03-28,alpha,178
-Northwest Territories,2021-03-28,alpha,0
-Nova Scotia,2021-03-28,alpha,13
-Nunavut,2021-03-28,alpha,0
-Ontario,2021-03-28,alpha,1625
-Prince Edward Island,2021-03-28,alpha,4
-Quebec,2021-03-28,alpha,595
-Saskatchewan,2021-03-28,alpha,486
-Yukon,2021-03-28,alpha,0
-Canada,2021-03-28,alpha,7725
-Alberta,2021-03-28,beta,20
-British Columbia,2021-03-28,beta,47
-Manitoba,2021-03-28,beta,14
-New Brunswick,2021-03-28,beta,0
-Newfoundland and Labrador,2021-03-28,beta,0
-Northwest Territories,2021-03-28,beta,0
-Nova Scotia,2021-03-28,beta,10
-Nunavut,2021-03-28,beta,0
-Ontario,2021-03-28,beta,63
-Prince Edward Island,2021-03-28,beta,0
-Quebec,2021-03-28,beta,107
-Saskatchewan,2021-03-28,beta,8
-Yukon,2021-03-28,beta,0
-Canada,2021-03-28,beta,269
-Alberta,2021-03-28,gamma,5
-British Columbia,2021-03-28,gamma,199
-Manitoba,2021-03-28,gamma,0
-New Brunswick,2021-03-28,gamma,0
-Newfoundland and Labrador,2021-03-28,gamma,0
-Northwest Territories,2021-03-28,gamma,0
-Nova Scotia,2021-03-28,gamma,0
-Nunavut,2021-03-28,gamma,0
-Ontario,2021-03-28,gamma,67
-Prince Edward Island,2021-03-28,gamma,0
-Quebec,2021-03-28,gamma,1
-Saskatchewan,2021-03-28,gamma,0
-Yukon,2021-03-28,gamma,0
-Canada,2021-03-28,gamma,272
+Alberta,2021-03-15,alpha,902
+British Columbia,2021-03-15,alpha,667
+Manitoba,2021-03-15,alpha,12
+New Brunswick,2021-03-15,alpha,6
+Newfoundland and Labrador,2021-03-15,alpha,88
+Northwest Territories,2021-03-15,alpha,0
+Nova Scotia,2021-03-15,alpha,11
+Nunavut,2021-03-15,alpha,0
+Ontario,2021-03-15,alpha,1036
+Prince Edward Island,2021-03-15,alpha,4
+Quebec,2021-03-15,alpha,241
+Saskatchewan,2021-03-15,alpha,64
+Yukon,2021-03-15,alpha,0
+Canada,2021-03-15,alpha,3031
+Alberta,2021-03-15,beta,16
+British Columbia,2021-03-15,beta,36
+Manitoba,2021-03-15,beta,11
+New Brunswick,2021-03-15,beta,0
+Newfoundland and Labrador,2021-03-15,beta,0
+Northwest Territories,2021-03-15,beta,0
+Nova Scotia,2021-03-15,beta,8
+Nunavut,2021-03-15,beta,0
+Ontario,2021-03-15,beta,44
+Prince Edward Island,2021-03-15,beta,0
+Quebec,2021-03-15,beta,99
+Saskatchewan,2021-03-15,beta,6
+Yukon,2021-03-15,beta,0
+Canada,2021-03-15,beta,220
+Alberta,2021-03-15,gamma,2
+British Columbia,2021-03-15,gamma,14
+Manitoba,2021-03-15,gamma,0
+New Brunswick,2021-03-15,gamma,0
+Newfoundland and Labrador,2021-03-15,gamma,0
+Northwest Territories,2021-03-15,gamma,0
+Nova Scotia,2021-03-15,gamma,0
+Nunavut,2021-03-15,gamma,0
+Ontario,2021-03-15,gamma,34
+Prince Edward Island,2021-03-15,gamma,0
+Quebec,2021-03-15,gamma,1
+Saskatchewan,2021-03-15,gamma,0
+Yukon,2021-03-15,gamma,0
+Canada,2021-03-15,gamma,51
+Alberta,2021-03-22,alpha,1581
+British Columbia,2021-03-22,alpha,1094
+Manitoba,2021-03-22,alpha,63
+New Brunswick,2021-03-22,alpha,6
+Newfoundland and Labrador,2021-03-22,alpha,178
+Northwest Territories,2021-03-22,alpha,0
+Nova Scotia,2021-03-22,alpha,13
+Nunavut,2021-03-22,alpha,0
+Ontario,2021-03-22,alpha,1287
+Prince Edward Island,2021-03-22,alpha,4
+Quebec,2021-03-22,alpha,432
+Saskatchewan,2021-03-22,alpha,149
+Yukon,2021-03-22,alpha,0
+Canada,2021-03-22,alpha,4807
+Alberta,2021-03-22,beta,18
+British Columbia,2021-03-22,beta,41
+Manitoba,2021-03-22,beta,13
+New Brunswick,2021-03-22,beta,0
+Newfoundland and Labrador,2021-03-22,beta,0
+Northwest Territories,2021-03-22,beta,0
+Nova Scotia,2021-03-22,beta,10
+Nunavut,2021-03-22,beta,0
+Ontario,2021-03-22,beta,47
+Prince Edward Island,2021-03-22,beta,0
+Quebec,2021-03-22,beta,107
+Saskatchewan,2021-03-22,beta,7
+Yukon,2021-03-22,beta,0
+Canada,2021-03-22,beta,243
+Alberta,2021-03-22,gamma,2
+British Columbia,2021-03-22,gamma,65
+Manitoba,2021-03-22,gamma,0
+New Brunswick,2021-03-22,gamma,0
+Newfoundland and Labrador,2021-03-22,gamma,0
+Northwest Territories,2021-03-22,gamma,0
+Nova Scotia,2021-03-22,gamma,0
+Nunavut,2021-03-22,gamma,0
+Ontario,2021-03-22,gamma,36
+Prince Edward Island,2021-03-22,gamma,0
+Quebec,2021-03-22,gamma,1
+Saskatchewan,2021-03-22,gamma,0
+Yukon,2021-03-22,gamma,0
+Canada,2021-03-22,gamma,104
+Alberta,2021-03-29,alpha,3043
+British Columbia,2021-03-29,alpha,1666
+Manitoba,2021-03-29,alpha,109
+New Brunswick,2021-03-29,alpha,6
+Newfoundland and Labrador,2021-03-29,alpha,178
+Northwest Territories,2021-03-29,alpha,0
+Nova Scotia,2021-03-29,alpha,13
+Nunavut,2021-03-29,alpha,0
+Ontario,2021-03-29,alpha,1625
+Prince Edward Island,2021-03-29,alpha,4
+Quebec,2021-03-29,alpha,595
+Saskatchewan,2021-03-29,alpha,486
+Yukon,2021-03-29,alpha,0
+Canada,2021-03-29,alpha,7725
+Alberta,2021-03-29,beta,20
+British Columbia,2021-03-29,beta,47
+Manitoba,2021-03-29,beta,14
+New Brunswick,2021-03-29,beta,0
+Newfoundland and Labrador,2021-03-29,beta,0
+Northwest Territories,2021-03-29,beta,0
+Nova Scotia,2021-03-29,beta,10
+Nunavut,2021-03-29,beta,0
+Ontario,2021-03-29,beta,63
+Prince Edward Island,2021-03-29,beta,0
+Quebec,2021-03-29,beta,107
+Saskatchewan,2021-03-29,beta,8
+Yukon,2021-03-29,beta,0
+Canada,2021-03-29,beta,269
+Alberta,2021-03-29,gamma,5
+British Columbia,2021-03-29,gamma,199
+Manitoba,2021-03-29,gamma,0
+New Brunswick,2021-03-29,gamma,0
+Newfoundland and Labrador,2021-03-29,gamma,0
+Northwest Territories,2021-03-29,gamma,0
+Nova Scotia,2021-03-29,gamma,0
+Nunavut,2021-03-29,gamma,0
+Ontario,2021-03-29,gamma,67
+Prince Edward Island,2021-03-29,gamma,0
+Quebec,2021-03-29,gamma,1
+Saskatchewan,2021-03-29,gamma,0
+Yukon,2021-03-29,gamma,0
+Canada,2021-03-29,gamma,272
 Alberta,2021-04-05,alpha,6273
 British Columbia,2021-04-05,alpha,2771
 Manitoba,2021-04-05,alpha,235
