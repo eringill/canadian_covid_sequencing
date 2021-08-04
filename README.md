@@ -31,10 +31,10 @@ Required Libraries
 
 Login Information
 -----------------
-**Username:** read_only
-**Password:** ZjQXhW9Vdjr4t5
-**Host:** sequence-data.cygoeoaa27gf.us-east-2.rds.amazonaws.com
-**Port:** 5432
+**Username:** read_only  
+**Password:** ZjQXhW9Vdjr4t5  
+**Host:** sequence-data.cygoeoaa27gf.us-east-2.rds.amazonaws.com  
+**Port:** 5432  
 
 Database Schema
 ---------------
