@@ -24,10 +24,11 @@ The database is housed on [AWS RDS](https://aws.amazon.com/rds/postgresql/).
 
 Updating the database is not currently automated, as the data sources include excel spreadsheets with comments and webpages with changing formats. However, I am working toward this goal.
 
-Required Libraries
-------------------
-- you don't need any libraries installed to access the data in the database, but you will need a postgres client such as [pgAdmin](http://www.pgadmin.org/)
+Required Libraries / Software
+-----------------------------
+- You don't need any libraries installed to access the data in the database, but you will need a postgres client such as [pgAdmin](http://www.pgadmin.org/)
 - Instructions for connecting to the database can be found [here](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html)
+- You can find sample queries to get you started in the `sample_queries.sql` file
 
 Login Information
 -----------------
@@ -40,3 +41,12 @@ Database Schema
 ---------------
 ![database schema](/schema.png)
 
+Files
+-----
+- `README.md`: this file
+- `LICENSE`
+- `main.ipynb`: jupyter notebook with cells to process updates for tables
+- `helper_functions.py`: helper functions that are imported into the jupyter notebook
+- `schema.png`: image of the database schema
+- `sample_queries.sql`: sample queries to get you started with retrieving information from the database
+- `data/`: raw and processed data for database loading
