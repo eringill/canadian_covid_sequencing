@@ -4,7 +4,7 @@ Data Source
 -----------
 The data for this project is compiled from multiple sources:
 - sequencing number reports collected by the National Microbiology Laboratory of Canada
-- variant of concern (VOC) data collected from the [CTV news website](https://www.ctvnews.ca/health/coronavirus/tracking-variants-of-the-novel-coronavirus-in-canada-1.5296141) (CTV news attends press conferences for regional public health authorities and extracts numbers from briefings released by these authorities)
+- variant of concern (VOC) data collected from the [CTV news website](https://www.ctvnews.ca/health/coronavirus/tracking-variants-of-the-novel-coronavirus-in-canada-1.5296141) (CTV news attends press conferences for regional public health authorities and extracts numbers from briefings released by these authorities). This is the only source that I've found that provides all regional VOC numbers.
 - case number data downloaded from the [Government of Canada Infobase](https://health-infobase.canada.ca/) 
 
 
