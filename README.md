@@ -38,5 +38,5 @@ Login Information
 
 Database Schema
 ---------------
-![database schema][schema.png]
+![database schema](/schema.png)
 
